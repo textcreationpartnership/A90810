@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the religious societies in St. Michael's Church Dublin. September the 25th. 1698. / by Thomas Pollard ...</title>
+            <author>Pollard, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90810</idno>
+            <idno type="STC">Wing P2777</idno>
+            <idno type="STC">ESTC R181919</idno>
+            <idno type="EEBO-CITATION">45578407</idno>
+            <idno type="OCLC">ocm 45578407</idno>
+            <idno type="VID">172329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the religious societies in St. Michael's Church Dublin. September the 25th. 1698. / by Thomas Pollard ...</title>
+                  <author>Pollard, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by and for Joseph Ray, bookseller in Skinner-row over against the Tholsel,</publisher>
+                  <pubPlace>Dublin: :</pubPlace>
+                  <date>M DC XC VIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library (Dublin, Ireland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Leviticus XIX, 17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172329:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RELIGIOUS SOCIETIES, IN St. <hi>MICHAEL</hi>'s CHURCH DUBLIN.
+<hi>September</hi> the <hi>25th.</hi> 1698.</p>
+            <p>By <hi>Thomas Pollard,</hi> Miniſter of St. <hi>Peter</hi>'s <hi>Dublin.</hi>
+            </p>
+            <p>DUBLIN: Printed, by and for <hi>Joſeph Ray,</hi> Bookſeller in <hi>Skinner-row</hi> over
+againſt the <hi>Tholſel,</hi> MDCXCVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172329:2" rendition="simple:additions"/>
+            <pb facs="tcp:172329:2" rendition="simple:additions"/>
+            <head>TO THE Religious Societies IN DUBLIN.</head>
+            <opener>
+               <salute>BRETHREN,</salute>
+            </opener>
+            <p>THô I was ready, at your Requeſt, to Preach this <hi>Sermon,</hi> yet I (muſt
+confeſs I was not ſo <hi>willing</hi> to make it <hi>Publick;</hi> as conſcious to my ſelf
+how much ſo great and uſeful a <hi>Subject</hi> muſt ſuffer through the Weakneſs of the
+Manager: But when your deſires came back't with his Grace's Commands, it was no longer fit for me
+to diſpute the matter.</p>
+            <p>I am very ſenſible that beſides the Exceptions that may be juſtly taken againſt the
+Imperfections of this Diſcourſe, many <hi>Objections</hi> will be rais'd, againſt the
+<hi>Argument</hi> it ſelf, which is likely to find the ſame ill <hi>Uſage</hi> for
+<hi>Encourag<g ref="char:EOLhyphen"/>ing,</hi> that you have allready met with for <hi>Endeavouring</hi> a Reformation: But
+if the <hi>Publiſhing</hi> this <hi>Sermon</hi> may prove either uſeful to <hi>You</hi> or
+Beneficial to <hi>others,</hi> I ſhall, very little Regard the Cenſures of ill Men; who as they
+are <hi>Enemies</hi> to <hi>Virtue,</hi> ſo they will be ſure to be to all that ſhall
+<hi>abett</hi> it.</p>
+            <pb facs="tcp:172329:3"/>
+            <p>To Direct and Encourage the <hi>Good Work</hi> you have ſo ſucceſsfully begun,
+<hi>viz.</hi> The beating down the <hi>Body of Sin,</hi> and putting ſome ſtop to that <hi>I
+orrent</hi> of open <hi>Lewdneſs</hi> and <hi>Prophaneneſs,</hi> which for ſome time paſt
+has been breaking in upon us, was the great deſign of this Diſcourſe; and if it may Influence
+and Inſpirit any of us in ſo Generous an <hi>Undertaking,</hi> I ſhall think my Time and my
+Labour well laid out. And that GOD's Bleſſing may allways accompany your Endeavours and mine in
+this Charitable Attempt is the hearty Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>You Affectionate humble Servant</hi> Thomas Pollard.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172329:3"/>
+            <head>A SERMON Preach'd before the Societies in St. <hi>Michael</hi>'s Church, <hi>Dublin,
+September</hi> the <hi>25th.</hi> 1698.</head>
+            <p>The <hi>19th.</hi> of <hi>Leviticus</hi> in the latter part of the <hi>17th.</hi> verſe.</p>
+            <p>
+               <hi>Thou ſhalt in any wiſe rebuke thy Neighbour, and not ſuffer Sin upon him.</hi>
+            </p>
+            <p>The whole Verſe runs thus, <hi>Thou ſhalt not hate thy Brother in thine heart: thou ſhalt
+in any wiſe rebuke thy Neighbour, and not ſuffer Sin upon him.</hi>
+            </p>
+            <p>THeſe words recommend a duty as difficult to the Performer, as unwelcom to the Receiver; and
+that is <hi>Brotherly Admonition</hi> and <hi>Reproof:</hi> for whoſoever ſhall attempt it
+(tho' in the greateſt kindneſs to Mens Souls) is in danger not only of being accounted, but of
+being treated as their Enemy, becauſe he tells them the truth.</p>
+            <p>'Twas a work difficult enough for a Prophet, and we find God himſelf intimating, as if there
+were but few qualified for ſo generous an undertaking: <hi>Iſaiah</hi> 6.8. <hi>And I heard the
+Voice of the Lord ſaying whom ſhall I ſend, and who will go for Us?</hi> Implying that it was
+no eaſie matter to find a well qualified and willing Perſon; and tho' the Prophet
+<hi>Iſaiah</hi> was prepared and ready at that time to undertake the Imploy<g ref="char:EOLhyphen"/>ment,
+<pb n="2" facs="tcp:172329:4"/>yet we find the Prophet <hi>Jeremiah</hi> ſomething backward, bewailing
+himſelf and complaining of the hardſhip of the Du<g ref="char:EOLhyphen"/>ty. Saying, <hi>Wo is me, my Mother that thou
+haſt born me a Man of ſtrife, and a Man of Contention to the whole Earth,</hi> Jer. 15.10.</p>
+            <p>And therefore to arm him againſt all dangers and difficulty of the undertaking, God does not
+only chear him up, but threaten him too, <hi>Thou therefore gird up thy Loins,</hi> i. e. rouze up
+thy Spirits and thy Courage, <hi>and ariſe, ſpeak to them all that I commanded thee, be not
+diſmayed at their Faces, leſt I Confound thee before them.</hi> Jer. <hi>1ſt.</hi> 17. And
+whether they would hear, or whether they would forbear, God oblig'd him to diſcharge this
+neceſſary, tho' unwelcome office towards them.</p>
+            <p>And with the ſame caution God arms <hi>Ezekiel</hi> upon the like occaſion, <hi>And thou
+ſon of man be not afraid of their words, tho' Briers and Thorns be with thee,</hi> i. e. tho'
+this people be as Briers and Thorns, which ſhall prick and wound thy Soul, <hi>And tho' thou
+doſt dwell among Scorpions, be not afraid of their words, nor be diſmayed at their looks,</hi>
+Ezek. 2.6.</p>
+            <p>And if a Commiſſion'd Prophet was to expect ſuch Treatment, when he was ſent by God to
+rebuke a wicked Nation, how much rougher uſage muſt a private Perſon look for when he
+undertakes to Reprove a wicked and licentious People? and to reform thoſe Vices which by a long
+and general Prac<g ref="char:EOLhyphen"/>tice and Indulgence, are not only grown faſhionable, but have gotten Credit and
+Power in the World? inſomuch that he that dares attempt a Reformation, muſt look for nothing
+leſs than to be torn with <hi>Briers</hi> and <hi>Thorns,</hi> and to be the object of all the
+Venom, that the Tongues of theſe wicked <hi>Scorpions</hi> can ſpit againſt him; but God that
+knew the danger does not excuſe from the duty, but lays his commands pe<g ref="char:EOLhyphen"/>remptorily thus, <hi>Thou
+ſhalt in any wiſe Rebuke thy Neighbour,</hi> &amp;c.</p>
+            <p>And tho' this Precept was given under the Law, yet it is of that <hi>Moral Obligation,</hi> that
+it is not <hi>ſuperſeded,</hi> but rather reinforced by the Goſpel Diſpenſation.</p>
+            <pb n="3" facs="tcp:172329:4"/>
+            <p>I ſhall not at preſent confine theſe words (as ſome under<g ref="char:EOLhyphen"/>ſtand them) in Relation only
+to the former part of the Verſe. <hi>Thou ſhalt not hate thy Brother, in thine heart,</hi> i.
+e. Thou ſhalt not bear any private Malice or Grudge againſt him, and ſmother it in thy
+breaſt, as <hi>Abſolom</hi> did againſt his Brother <hi>Amnon,</hi> for the Text ſays,
+<hi>He ſpake unto him neither good nor bad,</hi> and gives this as the reaſon, <hi>For
+Abſolom hated Amnon,</hi> 2 <hi>Sam.</hi> 13.22. But thou ſhalt make known the cauſe of the
+Difference and Diſpleaſure, and ſhalt in any wiſe plainly <hi>re<g ref="char:EOLhyphen"/>buke</hi> him for it. Tho'
+this be an excellent duty, and may prove the prevention of many great and grievous Evils, yet I
+ſhall at this time treat of theſe words in a greater Latitude, e<g ref="char:EOLhyphen"/>ven as they reſpect Sin in
+general and not only ſome treſpaſs committed againſt our ſelves.</p>
+            <p>And in handling of them in this larger ſenſe, I ſhall follow this method.</p>
+            <list>
+               <item>1. I will endeavour to make it appear that it is the Duty of a private Chriſtian, as much
+as in him lies, to Reprove and Reform Sin in his Neighbour.</item>
+               <item>2. I ſhall ſhew you the manner how this duty is to be perform'd.</item>
+               <item>3. The Motives and Reaſons that may encourage him in ſo difficult a performance.</item>
+            </list>
+            <p n="1">1. I ſhall endeavour to make it appear, that it is the duty of a private Chriſtian, as
+much as in him lies, to Reprove and Reform Sin in his Neighbour.</p>
+            <p>To prevent Sin, and deſtroy the works of the Devil, is ſo Noble and generous a deſign,
+that for the accompliſhment thereof our Bleſſed Saviour thought it worth while to leave all
+the Glorious Manſions of Heaven, to deſcend into a wicked World, and to ſubmit himſelf to
+the moſt barbarous Treatment it could give him; and his great buſineſs here was to ſave his
+People from their Sins, that they being deliver'd from their Spiritual Enemies, might become a
+peculiar Peo<g ref="char:EOLhyphen"/>ple zealous of good works, and might ſerve God without fear, in Holineſs and
+Righteouſneſs before him all the days of their life.</p>
+            <pb n="4" facs="tcp:172329:5"/>
+            <p>And if it be our Duty to learn of Him, and endeavour to be like him, we are certainly oblig'd to
+promote the good of Souls, as much as in us lies, and to be willing to run ſome hazzard, to be at
+ſome coſt and pains for the reſcue of a poor Soul, which was ſo precious in the eyes of
+Chriſt, that he thought it worth dying for; he came into the world on pur<g ref="char:EOLhyphen"/>poſe to do
+Kindneſſes to the Souls of Men, even to turn us from the Errors of our ways to the living
+God.</p>
+            <p>The very firſt act that a Chriſtian does in behalf of himſelf, is ſolemnly to engage in
+a war againſt the Devil and all his Works, againſt all the deceitful and wicked Pomps and
+Vani<g ref="char:EOLhyphen"/>ties of the World, and all the ſinful luſts of the Fleſh; and that ſacred Vow does
+oblige us by all lawful ways and means to prevent and deſtroy all theſe, as well in others as
+our ſelves: and if we neglect it, we make our ſelves partakers of their ſins.</p>
+            <p>Even under the Law they were enjoyn'd to Rebuke Sin in their Neighbour, and not to ſuffer
+ſin upon him: Some tran<g ref="char:EOLhyphen"/>ſlate it, Thou ſhalt not bear Sin for him, by which is ſometimes
+underſtood the Sin it ſelf, and ſometimes the Puniſhment thereof. And truly he that
+neglects this Duty among his Friends and Equals, when 'tis fit to perform it, makes him<g ref="char:EOLhyphen"/>ſelf
+liable to both.</p>
+            <p>And this neglect in the former part of the verſe, is called <hi>A hating our Brother in our
+heart;</hi> for ſo ſome apply that part of the Verſe, and not without reaſon; for what
+hatred ſo deadly as that which tends to the utter ruin and deſtruction of a Soul?</p>
+            <p>What was ſpoken by the Prophet <hi>Ezekiel</hi> of the Watchman, to whom the charge of the
+People was committed, and was by virtue of his Office oblig'd to give the People warning of their
+Danger, is in ſome meaſure applicable to every Chriſtian, who is ſo far a Prophet, as to be
+oblig'd to prevent Sin, as far as lawfully he may, and in any wiſe to warn and rebuke his
+Neighbours, when an opportunity and fit Circum<g ref="char:EOLhyphen"/>ſtances do offer. And in this reſpect why
+ſhould we grudge any one the honour of reſcuing a Soul from Death? ought
+<pb n="5" facs="tcp:172329:5"/>we not all much rather, to joyn in <hi>Moſes</hi>'s paſſionate Prayer;
+<hi>Would to God that all the Lords People were Prophets, and that he would put his holy Spirit
+upon them.</hi>
+            </p>
+            <p>The puniſhment that God threatned the Prophet with, in caſe of neglect is very dreadful;
+<hi>His blood will I require at thine hand.</hi> Now thô this be more particularly the duty
+of a Miniſter, who is intruſted with the cure of Souls, and de<g ref="char:EOLhyphen"/>ſign'd here by the name of a
+Prophet, yet private Chriſtians are not altogether free from the Obligation, but even a meer
+Laick may draw the blood of his Brother upon his own head, and by a ſilent approbation of his Sin
+make himſelf liable both to the guilt and puniſhment; and every Man is ſo far ingag'd
+againſt the common Enemy, as to take his Brothers part, and reſcue him out of his hands, as
+well as he is bound to defend himſelf.</p>
+            <p>Our Bleſſed Saviour enjoyns this private Admonition in theſe words, <hi>If thy brother
+treſpaſs againſt thee, go and tell him his fault between thee and him alone, if he ſhall
+hear thee, thou haſt gained thy brother.</hi> And thô theſe words ſpeak only of a
+treſpaſs committed againſt our ſelves, yet if we love God as we ought, we ſhould ſure
+be as much concerned for him as we are for our ſelves. And 'tis a ſign that we have little zeal
+for the Glory of his Name, when we can patiently hear it blaſphem'd, and ſee his honour
+trampled upon by wicked and prophane wretches, and ſit contentedly by, and neither ſay nor do
+any thing to retrieve and vindicate it; ſure we could not think him our Friend, that could
+ſilently and con<g ref="char:EOLhyphen"/>tentedly ſtand by, and ſee any of our ſelves thus rudely treated and
+abuſed.</p>
+            <p>'Tis the ſame private reproof that St. <hi>Paul</hi> means by his firſt and ſecond
+Admonition; <hi>Titus,</hi> 3.10.</p>
+            <p>And the end of all this is in the expreſſion of my Text. <hi>Not to ſuffer Sin upon our
+Brother;</hi> or as St. <hi>James</hi> expreſſes it, <hi>The converting of a Sinner from the
+error of his ways.</hi>
+            </p>
+            <p>And were our love to our Brother, of the ſame kind with Chriſt's love to us, we ſhould not
+need many arguments to
+<pb n="6" facs="tcp:172329:6"/>convince us of our obligation to this Duty; that Love alone would ſoon put us
+upon the diſcharge of it; 'Tis a very pow<g ref="char:EOLhyphen"/>erful Paſſion, where it is ſincere; it will not
+ſtick at Niceties, or be diſcouraged with every ſeeming Difficulty. And we know 'tis our duty
+to love one another, as he loved us. And if his love was ſo great to the Souls of Men, as to
+think the Redemption of them worth the infinite value of his own Blood, ſure, to render our love,
+in any degree like his, we are certainly oblig'd to lay out our moſt vigorous endeavours towards
+the converſion of one another, and be as ſolicitous for the prevention or removal of Sin, as of
+the Plague, for indeed the former is as catching, and more fatally mortal than the latter.</p>
+            <p>Who could ſtand patiently by, and ſee his Friend about to take deadly Poyſon, or throw
+himſelf off a dangerous Preci<g ref="char:EOLhyphen"/>piſe, and not uſe his utmoſt endeavours to prevent ſuch a
+miſ<g ref="char:EOLhyphen"/>chief? And is it not much more barbarous and inhumane to ſtand uconcernedly by, and ſee
+my Brother Sin a Sin unto Death, and ſo ruin Himſelf, Soul, and Body, to all Eternity? And yet
+never make one ſtep towards his reſcue and delive<g ref="char:EOLhyphen"/>rance. Sure did we know the worth of a Soul,
+or had any Bowels and Compaſſion for our Brother, we ſhould with the ſame earneſtneſs
+endeavour his preſervation, that the Angel did <hi>Lots,</hi> even by calling upon him, and
+leading him by the hand, and forcing him out of <hi>Sodom,</hi> warning him of his danger, and with
+the ſame zealous concern bidding him eſcape, <hi>Neither ſtay thou in all the plain, leaſt
+thou be conſumed:</hi> And in<g ref="char:EOLhyphen"/>deed he that can't find in his Heart, to do ſomething towards the
+converſion of a Sinner, nay to run ſome hazard, and be thus importunate, when he ſees his
+Brother ready to tumble in Hell, has ſure very little of this heavenly Angelical Temper in him,
+very little value for a Soul, which Chriſt thought ſo precious, and leſs of Chriſtian Love
+and Reſolution in him, he falls far below the Character of the more generous Hea<g ref="char:EOLhyphen"/>thens, who
+look'd upon the preventing of Sin and Error in their Friend, as the moſt ſacred Office of their
+Love and
+<pb n="7" facs="tcp:172329:6"/>Friendſhip, and upon this account look'd upon their Friend as their Guardian
+Angel, or rather as their own Conſcience, whoſe buſineſs it was, not only to direct them in
+their Du<g ref="char:EOLhyphen"/>ty, and forewarn them of their danger, but alſo to check and reprove them when they did
+amits, and wandred out of the ways of Truth and right Reaſon.</p>
+            <p>And ſure Chriſtianity does not ſuperſede, but improve and exalt this excellent and
+neceſſary duty. And by how much we have more noble motives for the performance of it, by ſo
+much are we the more ſtrictly oblig'd to the Conſcientious diſcharge of it.</p>
+            <p>And thus having proved that it is the Duty of a private Chriſtian, as much as in him lies, to
+reprove and reform Sin in his Neighbour; I come in the ſecond place to ſhew you how this Duty
+is to be performed.</p>
+            <p>And that is firſt of all by inſtructing the Ignorant, and that both as to the
+<hi>Credenda</hi> and <hi>Agenda</hi> of their Religion: For as many Sin againſt light, ſo
+ſome Sin for want of it; and it is noble charity, to give Eyes to the Blind, to give Light to
+them that ſit in Darkneſs and the Shadow of Death, and to guide their Feet into the way of
+Peace. But thô this may tend very much to the Reformation of our Brother, yet it is properly
+rather to Direct than Reprove.</p>
+            <p n="2">2dly. There is a way of reproving Sin-by the contrary ex<g ref="char:EOLhyphen"/>ample of Holineſs and Vertue,
+and when Sin has not taken too deep a root, this may prove an excellent method for the reclaiming
+of Sinners. For the exemplary Piety and Holi<g ref="char:EOLhyphen"/>neſs of a good Man, is ſuch a Check and Reproach
+to the Ungodly, that like the <hi>Ark</hi> and <hi>Dagon,</hi> one cannot ſtand be<g ref="char:EOLhyphen"/>fore the
+other.</p>
+            <p>But if the Contagion of Sin be ſpread and grown ſo inve<g ref="char:EOLhyphen"/>terate, that Example alone cannot
+Shame and Maſter it, yet it will ſtill have the Advantage of giving the more Force and Efficacy
+to our Reproofs; it will convince them that we are ſincere and in earneſt, when they ſee us
+ſo Zealous in the Practiſe of that our ſelves, which we would ſo earneſtly re<g ref="char:EOLhyphen"/>commend
+<pb n="8" facs="tcp:172329:7"/>unto them. But it will be a hard matter to per<g ref="char:EOLhyphen"/>ſwade any man to believe and
+practice that, which, by my own Actions, that by moſt People are look'd upon as the moſt
+ſenſible and convincing Arguments, I do plainly de<g ref="char:EOLhyphen"/>monſtrate, I neither believe nor practice
+my ſelf. How apt will every one be to retort my Rebukes, with a <hi>Phyſitian heal thy
+ſelf;</hi> or rather with a <hi>Thou Hypocrite, firſt caſt the Beam out of thine own Eye, and
+then ſhalt thou ſee clearly to pull the Mote out of thy Brothers Eye.</hi> He that is guilty
+himſelf is not fit to ſtone Sin in another.</p>
+            <p n="3">3dly. Our Rebukes and Reproofs of our Brother, ought to be inſinuated with all
+Tenderneſs and Brotherly love, that they may plainly perceive our deſign is to ſave their
+Souls, and not to Gratiſie our own, or others Spleen, in expoſing their Perſons and
+Reputations.</p>
+            <p>And that we may the better inſinuate our kind concern for them, we muſt obſerve, as near
+as we can, the <hi>Mollia Tempo<g ref="char:EOLhyphen"/>ra fandi,</hi> the ſeaſon and circumſtances that are moſt
+likely to render our endeavours ſucceſsful; leaſt otherwiſe it ſhould ap<g ref="char:EOLhyphen"/>pear that we
+deſign rather to Upbraid, than Reform them. And then 'tis likely they will rather grow worſe
+than better under our Admonitions, as 'tis thought the Phyſick that does not Maſter, does
+irritate and ferment the evil Humour. And therefore we ought to uſe the greateſt caution and
+pru<g ref="char:EOLhyphen"/>dence, that our Reproofs, (according to the obſervation of a great Divine) may come as the
+Fathers thought Grace did to the Elect, <hi>Tempore congruo,</hi> in a fit ſeaſon, not when
+they are in the heat and Career of their Sins, but as God did to <hi>Adam,</hi> in the cool of the
+day, when the temper of the Wax may make it more capable of an impreſſion, leſt ſtriving to
+ſtop the Ra<g ref="char:EOLhyphen"/>pid Stream in 'its force we make it ſwell and overwhelm all before it.</p>
+            <p>Reproofs ill placed look more like the Attacks of an Ene<g ref="char:EOLhyphen"/>my, than the Rebukes of a Friend, and
+they will ſooner Ex<g ref="char:EOLhyphen"/>aſperate than Reform the Delinquent. And therefore, when there is any hopes
+of doing good this way, this gentle me<g ref="char:EOLhyphen"/>thod
+<pb n="9" facs="tcp:172329:7"/>ſhould be always uſed, before we proceed to rougher treatment; we ſhould
+try if the pouring in the precious Balm of Reproof will do the work, before we proceed to break
+their Heads by the ſeverity and Penalty of the Laws.</p>
+            <p>But 4. ſometimes the wound is more dangerous, and will perhaps need Inciſions and rougher
+Applications; ſometimes the Sin is deeply rooted by a long Cuſtom, and is become not only
+faſhionable, but has gotten Credit as well as Ground in the World, and then People Sin on with a
+ſtiff Neck, and a high Hand, and a Creſt lifted up; and when the Man becomes ſo exceeding
+Sinful, then Reproof will be loſt upon ſuch obſtinate Sinners, all this precious Balm will
+like Oyl to the Fire, make it flame the more. Thoſe are the People the wiſe man ſpeaks of,
+<hi>Reprove not a Scorner leſt he hate thee.</hi> Prov. 9.8. He means ſuch as are
+Incorri<g ref="char:EOLhyphen"/>gible, have aſcended the Chair of the Scornful, and are become preſumptuous, open and
+daring Sinners; ſuch, as the Hereticks of old, are to be rejected, and the precious Pearl of
+Reproof are not to be caſt before ſuch Swine, leſt, like the evil Spirit, they turn upon thee
+and tear thee. But here we are to call in the help of the Civil Magiſtrate, who ſhould be as
+the Apoſtle ſpeaks, the Miniſter of God, <hi>a Re<g ref="char:EOLhyphen"/>venger to execute wrath upon him that doth
+evil,</hi> Rom. 13.4. And let him look to it, if he bears this Sword in vain, he makes himſelf
+partaker of other mens Sins, draws a vaſt guilt upon his own head, and his Doom will be ſo much
+ſharper, as his Truſt was greater than other Mens.</p>
+            <p>But thanks be to God, who has not only given us good Laws, for the ſuppreſſion of Vice and
+Reformation of Manners; but has alſo inſpired ſome of our Magiſtrates with ſo much
+Courage and Zeal for God and Religion, as reſolutely to put theſe wholeſom Laws in Execution,
+maugre all the Intereſt and Malice of a wicked, Prophane and Licentious Faction.</p>
+            <pb n="10" facs="tcp:172329:8"/>
+            <p>And ſince we have not only good Laws but good Magiſtrates, who do ſo Zealouſly abett the
+cauſe of GOD and Practical Holineſs, we ought not to be faint<g ref="char:EOLhyphen"/>hearted, in ſo good a cauſe,
+but where Brotherly Admo<g ref="char:EOLhyphen"/>nition will not, or is not likely to take place, there to ap<g ref="char:EOLhyphen"/>peal to the
+Civil Magiſtrate, and to pray the aſſiſtance of the Sword of Juſtice, for the cutting
+down thoſe Sins, which were too ſtrong and powerful for any private Reproof.</p>
+            <p>I told you before, that by our Baptiſmal Vow, we are all engag'd to reſiſt and prevent
+Sin, as far as lawfully we may; and when 'tis not probable that the beſt Arts of Perſwaſion
+and Reproof will take place, but men are become ſo obſtinate, and deſperately wicked, that
+they are not to be awakened by all the terrors of the LORD, then 'tis high time to try if the Sword
+of Juſtice will deter them, or have any better influence upon them; and to this end we may
+juſtly and fairly complain to the Civil Magiſtrate, and deſire the execution of the Laws
+againſt ſuch ſcandalous Offenders.</p>
+            <p>And the reproach of being call'd an Informer, ought not to diſcourage us, or to quench our
+zeal for GOD's Glory and the good of Souls; and thô a ſort of men a<g ref="char:EOLhyphen"/>mong us are reviled and
+hated for no other reaſon but diſcharging a good Conſcience in this matter, yet they do no
+more than what the Law it ſelf as well as Con<g ref="char:EOLhyphen"/>ſcience does allow of and encourage. Or elſe
+how ſhould Convictions be made, or Offenders brought to condign Puniſhment? What would Laws
+ſignify, when no man had care or zeal enough to ſee them executed and take effect? How ſhould
+the Magiſtrate take Cognizance of Delinquents when each connives at the others wickedneſs?</p>
+            <p>What if ſome people reproach you as too buſy and for<g ref="char:EOLhyphen"/>ward; if we will be Chriſt's
+Diſciples, we muſt exerciſe more ſelf denyal than that amounts to.</p>
+            <pb n="11" facs="tcp:172329:8"/>
+            <p>The word Inſormer, may be taken in a good as well as in a bad Senſe, according as it is
+apply'd. The Odium that was firſt derived upon the name, was in the early perſecutions of the
+Church, when the Chriſtians loſt both their Lives and Eſtates by the Heatheniſh In<g ref="char:EOLhyphen"/>formers;
+but as it was an Enemy to Virtue then, ſo it may be to Vice now; and if it be really ſo, if it
+tends to the Promotion of Piety and Reformation, it can be no inglorious name, unleſs it be a
+crime to ſuppreſs Sin, and to root out the Lewdneſs and Prophaneſs which will bring a
+Curſe and Deſtruction upon a Nation. Would he deſerve to be Branded with an Infamous
+Cha<g ref="char:EOLhyphen"/>racter, that ſhould diſcover to the Magiſtrate ſuch Trea<g ref="char:EOLhyphen"/>ſonable Practiſes as
+tended to the utter Subvertion of the State and Government? Ought he not rather to be Encourag'd
+and Rewarded? Or is it leſs meritorious to Inform in the cauſe of GOD than of the King? And is
+there a greater Enemy to any Nation than the Vices thereof? Does any thing tend more to the Ruin of
+a People, than Debauchery and Prophaneſs, and the Con<g ref="char:EOLhyphen"/>tempt of GOD and Religion? Did we ever
+ſee a Kingdom brought to Miſery and Deſolation, where the wickedneſs and unreſtrain'd
+Luſts of the People had not the chiefeſt hand in it? And does he deſerve ill of the Common
+Wealth, or any name of Diſtinction, that is not kind and creditable, that does all that lies in
+his Power to ſuppreſs thoſe Vices, that would ruin a Nation, and have a natural as well as
+moral tendency to draw down the ſevereſt Judgments of GOD upon a Land? The beſt actions are
+likely to be miſrepreſented by ill men, eſpecially if they create any unquiet to them, and
+diſturb them in the enjoyment of their Luſts and Senſualities; he that attacks them here,
+touches the apple of their Eye, and muſt expect all the ill uſage that their Rage and Malice
+can ſuggeſt.</p>
+            <pb n="12" facs="tcp:172329:9"/>
+            <p>This is the Root of all, and the true reaſon why ſome men are ſo inrag'd at Informers, and
+if they would lay their hands upon their Hearts, and impartially examine them; I ſuppoſe their
+own Conſcience would hardly give them leave to deny it.</p>
+            <p>But thô thoſe people rage and ſwell, and conſpire to<g ref="char:EOLhyphen"/>gether againſt the LORD, and
+all that are Enemies to their Lewdneſs and Prophaneſs, yet all this ought not to quench your
+zeal for the Advancement of Holineſs and GOD's Glory. But go on reſolutely in this good work,
+comforting and encouraging your ſelves with St. <hi>Peter</hi>'s words, <hi>If ye ſuffer for
+Righteouſneſs ſake happy are ye:</hi> For as our Saviour ſays, <hi>great is your Reward in
+Heaven.</hi>
+            </p>
+            <p>And the moſt effectual way to conquer their Malice, and diſprove their Calumnies is, as the
+ſame Apoſtle adviſes, <hi>Reſolutely to maintain a good Conſcience, that where as they
+ſpeak evil of you, as of evil doers, they may be aſham'd that falſly accuſe your good
+Converſation in Chriſt,</hi> 1 <hi>Pet.</hi> 3.16.</p>
+            <p>The Informer that is ſo odious amongſt Men is one that does Vexatiouſly proſecute his
+Neighbours, meerly out of Lucre or Malice, without any regard to the Ser<g ref="char:EOLhyphen"/>vice of the State, or the
+Reformation of Offenders. But this is far different from his caſe, who out of a due re<g ref="char:EOLhyphen"/>gard to
+Virtue and the Glory of GOD, cannot pati<g ref="char:EOLhyphen"/>ently bear the trampling upon either, without
+interpo<g ref="char:EOLhyphen"/>ſing his endeavours for the preſervation of both, whe<g ref="char:EOLhyphen"/>ther it be by friendly Reproof
+and Admonition, or when that won't, or is it not likely to prevail, by applying to the
+Magiſtrate, who bears the Sword of GOD, and is bound to wield it for the ſupport of Virtue and
+Re<g ref="char:EOLhyphen"/>ligion, and for the Puniſhment and ſuppreſſion of evil doers. And when neither Malice
+nor Lucre comes in
+<pb n="13" facs="tcp:172329:9"/>for a ſhare, but the Glory of GOD, the eternal wellfart of Souls, and the good
+of the Kingdom are the ſole motives of ſuch Information, the name of Informer is ſo far from
+being a Reproach, that it ought to be had in ho<g ref="char:EOLhyphen"/>nour with every man that loves GOD or his Country,
+or has any kind regards to Virtue and Religion.</p>
+            <p>And ſo I proceed to the laſt Particular, <hi>viz.</hi> To ſhew the motives and reaſons
+that may encourage you in ſo difficult an undertaking.</p>
+            <p>I have already told you, that ſome by this Phraſe of not ſuffering Sin upon him, do mean
+thou ſhalt not bear Sin for him, or make thy ſelf partaker of his Sin: And if ſo, then the
+neglect of rebuking a Sinner when my kind Reproof may tend to the reclaiming of him, is to make me
+partaker of his Sins, and I am oblig'd to diſ<g ref="char:EOLhyphen"/>charge this Charitable office to my Brother, as I
+love my own Soul, and would not bring my ſelf under his Condemnation.</p>
+            <p n="2">2dly. If men would be ſo kind to themſelves or others, as to ſuffer themſelves to
+be perſwaded into a Conſci<g ref="char:EOLhyphen"/>entious diſcharge of this Duty, what a happy Change and
+Reformation might we ſoon expect in our little World! Eſpecially did the more Holy, Wiſe, and
+Pious, faith<g ref="char:EOLhyphen"/>fully and zealouſly ingage in it. How would Sinners be aſhamed and bluſh at
+their Villanies! We ſhould have no more bare-fac'd wickedneſs, but Sin would ſculk into the
+Corners of darkneſs, and what a bleſſed Reformation would enſue! This precious Balm of
+Reproof is the moſt likely medicine to heal up our breaches, and to cure the wounds and putrified
+ſores of GOD's People</p>
+            <p>
+               <hi>David</hi> calls it an excellent Oyl: <hi>Pſalm.</hi> 141.5. an Oyl that has two
+ſoveraign qualities, thoſe of Cleanſing
+<pb n="14" facs="tcp:172329:10"/>and Healing: this Reproof ſearches the ground of the Heart, and when that is
+well prob'd and made clean, it ſoon heals the breaches thereof. 'Tis an excellent means to awaken
+the conſcience of the Sinner, and to ſet it upon the diſcharge of her office; even to check
+us for our miſcarriages, and forewarn us of the dread<g ref="char:EOLhyphen"/>full expectation of the juſt Judgments of
+GOD, and conſequently puts us upon a diligent enquiry, which way we ſhall eſcape, and
+ſecure our ſelves from the wrath to come?</p>
+            <p>Hence it is that the Wiſe Man tells us, that <hi>The Rod and Reproof give wiſdom, and that
+he that hateth Reproof is brutiſh.</hi> And ſo highly did he eſteem of this method of
+reducing a Sinner, that if this repeated could not reform him, he ſeems utterly to diſpair of
+his con<g ref="char:EOLhyphen"/>verſion, <hi>He that being often reproved hardneth his Neck, ſhall ſuddenly be
+deſtroyed, and that without Remedy.</hi> Prov. 29.1. Intimating that if this method fail'd,
+nothing would be effectual.</p>
+            <p>But thirdly whether Sinners will hear or whether they will forbear, whether they will take
+warning and be converted or not, the faithful diſchargers of this Duty will have this remaining
+comfort, They will be ſure to ſave their own Souls, whileſt the Obſtinate and In<g ref="char:EOLhyphen"/>corrigible
+ſhall periſh in their Iniquities: Thus St. <hi>James</hi> aſſures us, that <hi>he that
+converteth a Sinner from the er<g ref="char:EOLhyphen"/>ror of his way, ſhall ſave a Soul a live, and ſhall cover a
+multitude of Sins.</hi> James, 5.20. <hi>i.e.</hi> of his own Sins; For as the former part of the
+Verſe contains a motive taken from the advantage that accrews to the Convert<g ref="char:EOLhyphen"/>ed, ſo the latter
+is an argument drawn from the bene<g ref="char:EOLhyphen"/>fit that redounds to the Convertor, <hi>viz.</hi> He ſhall
+hide a multitude of his own Sins. <hi>i. e.</hi> GOD will the ea<g ref="char:EOLhyphen"/>ſier be perſwaded to be
+propitious to him, and upon his
+<pb n="15" facs="tcp:172329:10"/>repentance. (which muſt always be ſuppos'd) forgive him thoſe Sins he had
+formerly been guilty of, and I the rather take this to be the ſenſe of the words, be<g ref="char:EOLhyphen"/>cauſe it
+is exactly agreeable to that of <hi>Daniel. They that be wiſe ſhall ſhine as the brightneſs
+of the Firmament, and they that turn many to Righteouſneſs as the Stars for ever and ever.</hi>
+Dan. 12. This is ſuch an exceeding and an eternal weight of Glory, that I can ſay nothing
+great<g ref="char:EOLhyphen"/>er; and therefore ſhall leave off here; deſiring you to conſider the weight and
+efficacy of this Motive; and ſhall only remind you, that ſince the effects of this Duty are
+ſo bleſſed, and the Reward ſo Glorious we ought not to be diſcourg'd in it, either
+thrô the fear of ſingularity, cenſoriouſneſs, or any dirt that a malicious people can
+beſpatter us with: Remembring that it is commonly the fate of Chriſt's Diſciples, <hi>That if
+in him they have peace, in the World they ſhall have Tribulation.</hi> And our Saviour himſelf
+does aſſure us, <hi>That narrow is the Way, and ſtreight is the Gate that leads to Life, and
+few there be that find it.</hi>
+            </p>
+            <p>
+               <hi>Now to GOD the Father, GOD the Son, and GOD the Holy Ghoſt be aſcribed all Honour, Power
+and Glory, for ever and ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172329:11" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
